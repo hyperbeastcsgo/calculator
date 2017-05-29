@@ -1,0 +1,15 @@
+{
+    "name": "hyperbeastcsgo/calculater",
+    "authors": [
+        {
+            "name": "hyperbeastcsgo",
+            "email": "akharap92@gmail.com"
+        }
+    ],
+    "require": {} ,
+    "autoload": {
+        "psr-4": {
+            "hyperbeastcsgo\\calculater\\" : "src/"
+        }
+    }
+}
